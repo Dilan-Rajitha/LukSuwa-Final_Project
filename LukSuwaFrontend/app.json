@@ -11,7 +11,7 @@
     "ios": {
       "supportsTablet": true,
       "config": {
-        "googleMapsApiKey": "AIzaSyBwkR2HCIuE2z821klZWIEUcpfYJurRgWo"
+        "googleMapsApiKey": ""
       },
       "infoPlist": {
         "NSCameraUsageDescription": "LukSuwa needs camera access for video calls with doctors",
@@ -29,7 +29,7 @@
       "package": "com.dilanrajitha.LukSuwaFrontend",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyBwkR2HCIuE2z821klZWIEUcpfYJurRgWo"
+          "apiKey": ""
         }
       },
       "permissions": [
